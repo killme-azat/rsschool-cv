@@ -6,3 +6,5 @@ I like to:
 * Play football;
 * Listen to music;
 * Walk with friends.
+## Study
+I graduated Nazarbayev Intellectual School. Now I am studing in Nazarbayev University.
