@@ -1,1 +1,1 @@
-# rsschool-cv
+https://killme-azat.github.io/rsschool-cv/cv
